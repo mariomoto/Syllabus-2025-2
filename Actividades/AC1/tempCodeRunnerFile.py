@@ -1,0 +1,1 @@
+nombre, int(puntos), int(precio)
