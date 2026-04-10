@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/Actividades/AC2"
+        },
+        {
+            "name": "Python: AC2 Main",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/Actividades/AC2/main.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/Actividades/AC2"
+        }
+    ]
+}
